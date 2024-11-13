@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_top_left" type="id"/>
+    <item name="button_top_right" type="id"/>
+    <item name="button_center" type="id"/>
+    <item name="button_bottom_left" type="id"/>
+    <item name="button_bottom_right" type="id"/>
+    <item name="navigate_button" type="id"/>
+    <item name="display_text" type="id"/>
+</resources>
